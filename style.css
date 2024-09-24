@@ -1,0 +1,147 @@
+body {
+    background-color: #E7DFD8;
+    font-family: "Inter", sans-serif;
+    margin: 0;
+}
+h1,h2,p {
+    margin: 0;
+    padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.container {
+    width: 1119px;
+    margin: 0 auto;
+}
+.title {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+    color: #101010;
+    padding-bottom: 30px;
+}
+span {
+    width: 74px;
+    height: 74px;
+    border-radius: 100px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 24px;
+    text-align: center;
+    color: #101010;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*Mikki Mous*/
+.mikki {
+    padding: 100px 0;
+}
+.mikki-container {
+    display: flex;
+    gap: 105px;
+}
+.mikki-text {
+    font-size: 19px;
+    font-weight: 400px;
+    color: #101010;
+    display: flex;
+    padding-bottom: 30px;
+}
+.mikki-text span {
+    background-color: #b99fea;
+    margin-right: 30px;
+}
+.mikki-tx {
+padding-bottom: 35px;
+font-weight: 400;
+font-size: 14px;
+color: #101010;
+line-height: 22px;
+}
+.mikki-link {
+    padding: 10px 20px;
+    background: #d99fea;
+    border-radius: 8px;
+    gap: 10px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    line-height: 22px;
+    display: inline-block;
+}
+/*Coco*/
+.coco {
+    padding: 100px 0;
+}
+.coco-container {
+    display: flex;
+    gap: 105px;
+}
+.coco-text {
+    font-size: 19px;
+    font-weight: 400px;
+    color: #101010;
+    display: flex;
+    padding-bottom: 30px;
+}
+.coco-text span {
+    background-color: #b99fea;
+    margin-right: 30px;
+}
+.coco-tx {
+padding-bottom: 35px;
+font-weight: 400;
+font-size: 14px;
+color: #101010;
+line-height: 22px;
+}
+.coco-link {
+    padding: 10px 20px;
+    background: #EBA789;
+    border-radius: 8px;
+    gap: 10px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    line-height: 22px;
+    display: inline-block;
+}
+/*мілана*/
+.мілана {
+    padding: 100px 0;
+}
+.мілана-container {
+    display: flex;
+    gap: 105px;
+}
+.мілана-text {
+    font-size: 19px;
+    font-weight: 400px;
+    color: #101010;
+    display: flex;
+    padding-bottom: 30px;
+}
+.мілана-text span {
+    background-color: #b99fea;
+    margin-right: 30px;
+}
+.мілана-tx {
+padding-bottom: 35px;
+font-weight: 400;
+font-size: 14px;
+color: #101010;
+line-height: 22px;
+}
+.мілана-link {
+    padding: 10px 20px;
+    background: #d99fea;
+    border-radius: 8px;
+    gap: 10px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    line-height: 22px;
+    display: inline-block;
+    }
